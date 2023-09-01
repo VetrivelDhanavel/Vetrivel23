@@ -11,6 +11,7 @@ I'm a passionate Software Test Engineer, dedicated to ensuring software quality 
 
 Skills Snapshot 🛠️
 Automation Tools and Frameworks:
+
 Web Automation: Proficient in leveraging Playwright, Selenium, and WebdriverIO for effective web automation.
 Mobile Automation: Experienced in applying mobile testing strategies and utilizing automation tools like Detox, Appium, and Android Studio.
 API Testing: Skilled in ensuring the functionality and reliability of APIs using Postman and RestAssured.
