@@ -7,7 +7,7 @@ I'm a passionate Software Test Engineer, dedicated to ensuring software quality 
 
 🏆 Quality Advocate: Committed to delivering high-quality software.
 
-🌱 Currently Exploring: Web automation with Playwright and TypeScript.
+🌱 Currently Exploring: Web automation with Playwright/Cypress and JS/TS.
 
 Skills Snapshot 🛠️
 Automation Tools and Frameworks:
