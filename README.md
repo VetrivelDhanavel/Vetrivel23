@@ -10,18 +10,29 @@ I'm a passionate Software Test Engineer, dedicated to ensuring software quality 
 🌱 Currently Exploring: Web automation with Playwright/Cypress and JS/TS.
 
 Skills Snapshot 🛠️
+
 Automation Tools and Frameworks:
+
 Web Automation: Playwright, Selenium, Cypress 
+
 Mobile Automation:  Detox, Appium, and Android Studio.
+
 API Testing: Postman , Retrofit 
-Test Frameworks: Proficient in creating and maintaining automated tests using various frameworks such as JUnit, TestNG, Pytest, and Robot Framework.
-IDEs: Familiar with Intellij IDEA, PyCharm, VS Code for test script development and debugging.
+
 Programming Languages: Python, JavaScript/Typescript, Java
+
 Build Tools : Gradle , Maven
-Frameworks : Pytest , Robot Framework , Behave , Cucumber 
+
+Frameworks : Pytest , Robot Framework , Behave , Cucumber, TestNG  
+
 Version Control and Collaboration tools : Git, Github, Bitbucket, Gitlab, SoureTree
+
 Reporting Tools: Allure Report 
+
 Test Management: TestRail , Zephyr 
+
+IDEs: Intellij IDEA, PyCharm, VS Code
+
 Let's collaborate on projects that elevate software quality! 🤝
 
 Connect with me on LinkedIn: https://www.linkedin.com/in/vetrivel-dhanavel-174351152/
